@@ -4,6 +4,6 @@ setup(
     name="pjtA",
     version="0.0.1",
     install_requires=['requests'],
-    packages=find_packages(),
+    packages=['myapp'],
     url="https://github.com/kkasamoto/pjtA"
 )
