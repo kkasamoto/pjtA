@@ -1,0 +1,2 @@
+def fantastic():
+    print('aaaaaa')
